@@ -8,7 +8,7 @@
     "google-images": "^1.0.0",
     "moment": "^2.14.1",
     "moment-timezone": "^0.5.5",
-    "sbot": "^0.0.2",
+    "sbot": "^0.0.3",
     "socket.io-client": "^1.4.6",
     "underscore": "^1.8.3",
     "weather-js": "^1.0.2"
